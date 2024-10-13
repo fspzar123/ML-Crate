@@ -1,4 +1,4 @@
-## **Advertisement Click Prediction**
+## **The Effect of Economic News on Gold Prices Analysis**
 
 ### 🎯 **Goal**
 To explore the intricate dance between gold prices and key economic events across major global players – Canada, Japan, USA, Russia, European Union, and China. 
